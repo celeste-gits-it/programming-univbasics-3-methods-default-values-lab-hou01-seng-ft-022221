@@ -3,4 +3,4 @@
 
 def meal_choice(veg1, veg2, protein = "tofu")
   
-assert_nothing_raised  
+end  
